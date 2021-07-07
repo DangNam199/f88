@@ -54,6 +54,7 @@
     }
     &-wraptitle{
       border-right: 1px solid#ccc;
+      min-height: 105px;
       @media only screen and (max-width: 800px) {
         border-right: none;
       }

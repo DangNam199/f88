@@ -421,7 +421,8 @@ img {
       border-radius: 5px 5px 0 0;
       z-index: 1; }
   .f88-main-bet-description-wraptitle {
-    border-right: 1px solid #ccc; }
+    border-right: 1px solid #ccc;
+    min-height: 105px; }
     @media only screen and (max-width: 800px) {
       .f88-main-bet-description-wraptitle {
         border-right: none; } }
