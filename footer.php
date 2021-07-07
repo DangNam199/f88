@@ -1,17 +1,17 @@
 <footer>
-    <div class="f88-footer pt-5">
+    <div class="f88-footer pt-lg-5 pt-4">
             <div class="container">
-                <p class="f88-footer-title d-none">
+                <p class="f88-footer-title ">
                     ĐÁNH GIÁ NHÀ CÁI - GAME BÀI - BẮN CÁ - LÔ ĐỀ
                 </p>
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-md-4 mb-3">
                         <div class="f88-footer-content">
                             <h3 class="f88-footer-content-title mb-1">
                                 Nhà cái uy tín
                             </h3>
                            <div class="row">
-                               <div class="col-lg-6">
+                               <div class="col-lg-6 col-md-6 col-6">
                                    <div class="f88-footer-content-link">
                                        <ul>
                                            <li>
@@ -32,7 +32,7 @@
                                        </ul>
                                    </div>
                                </div>
-                               <div class="col-lg-6">
+                               <div class="col-lg-6 col-md-6 col-6">
                                    <div class="f88-footer-content-link">
                                        <ul>
                                            <li>
@@ -56,13 +56,13 @@
                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-md-4 mb-3">
                         <div class="f88-footer-content">
                             <h3 class="f88-footer-content-title mb-1">
                                 Nhà cái uy tín
                             </h3>
                             <div class="row">
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 col-md-6 col-6">
                                     <div class="f88-footer-content-link">
                                         <ul>
                                             <li>
@@ -83,7 +83,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 col-md-6 col-6">
                                     <div class="f88-footer-content-link">
                                         <ul>
                                             <li>
@@ -107,13 +107,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-md-4 mb-3">
                         <div class="f88-footer-content">
                             <h3 class="f88-footer-content-title mb-1">
                                 Nhà cái uy tín
                             </h3>
                             <div class="row">
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 col-md-6 col-6">
                                     <div class="f88-footer-content-link">
                                         <ul>
                                             <li>
@@ -134,7 +134,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 col-md-6 col-6">
                                     <div class="f88-footer-content-link">
                                         <ul>
                                             <li>
@@ -158,7 +158,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 mt-5">
+                    <div class="col-12 mt-2">
                        <div class="f88-footer-introduce">
                            <p class="text-center">
                                <a href="#">Giới thiệu</a> | <a href="#">Liên hệ</a> | <a href="#">Chính sách bảo mật</a>

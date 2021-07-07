@@ -8,9 +8,9 @@
               </h2>
    </div>
 </div>
-<div class="f88-main-bet ">
+<div class="f88-main-bet pb-5">
     <div class="container">
-        <div class="mb-5">
+        <div class="mb-lg-5 mb-4">
             <?php
             for ($x = 0; $x <= 5; $x++) { ?>
                 <div class="f88-main-bet-description ">
@@ -49,11 +49,11 @@
                         </div>
                         <div class="col-lg-3 mb-2 mb-lg-0">
                             <div class="f88-main-bet-description_btn text-center">
-                                <a class="color-blue " href="#" title="">
+                                <a class="f88-main-bet-description_btn-blue " href="#" title="">
                                     <?php echo svg('cloud-download-alt-solid','','14') ?>
                                     Cược ngay
                                 </a>
-                                <a class="color-green" href="#" title="">
+                                <a class="f88-main-bet-description_btn-green" href="#" title="">
                                     <?php echo svg('arrow-circle-right-solid','','14') ?>
                                     Xem Review
                                 </a>
@@ -64,7 +64,7 @@
 
             <?php } ?>
         </div>
-        <div class="f88-main-bet-review mb-5">
+        <div class="f88-main-bet-review mb-lg-5 mb-4">
             <div class="f88-main-bet-review-title mb-3">
                 <a class="d-flex align-items-center" href="" title="">
                     <?php echo svg('bars-solid','14','16') ?>
@@ -72,8 +72,8 @@
                 </a>
             </div>
             <div class="row">
-                <div class="col-lg-9">
-                    <div class="row row-cols-lg-3 g-4">
+                <div class="col-xl-9 col-lg-12 col-md-12 col-12">
+                    <div class="row   row-cols-md-3   row-cols-2 g-4">
                         <?php
                         for($i = 0; $i <= 5; $i++){
                             include 'components/guess.php';
@@ -81,7 +81,7 @@
                         ?>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-xl-3 d-none d-xl-block">
                     <div class="f88-main-bet-review_banner">
                             <p class="mb-3">
                                 <img src="assets/images/RCu6WjA.gif" alt="">
@@ -94,7 +94,7 @@
             </div>
 
         </div>
-        <div class="f88-main-bet-review mb-5">
+        <div class="f88-main-bet-review mb-lg-5 mb-4">
             <div class="f88-main-bet-review-title mb-3">
                 <a class="d-flex align-items-center" href="" title="">
                     <?php echo svg('bars-solid','14','16') ?>
@@ -102,7 +102,7 @@
                 </a>
             </div>
             <div class="row">
-                <div class="col-lg-3">
+                <div class="col-xl-3 d-none d-xl-block">
                     <div class="f88-main-bet-review_banner">
                         <p class="mb-3">
                             <img src="assets/images/RCu6WjA.gif" alt="">
@@ -112,8 +112,8 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-9">
-                    <div class="row row-cols-lg-3 g-4">
+                <div class="col-xl-9 col-lg-12 col-md-12 col-12">
+                    <div class="row   row-cols-md-3   row-cols-2 g-4">
                         <?php
                         for($i = 0; $i <= 5; $i++){
                             include 'components/guess.php';
@@ -125,7 +125,7 @@
             </div>
 
         </div>
-        <div class="f88-main-bet-review mb-5">
+        <div class="f88-main-bet-review mb-lg-5 mb-4">
             <div class="f88-main-bet-review-title mb-3">
                 <a class="d-flex align-items-center" href="" title="">
                     <?php echo svg('bars-solid','14','16') ?>
@@ -133,8 +133,8 @@
                 </a>
             </div>
             <div class="row">
-                <div class="col-lg-9">
-                    <div class="row row-cols-lg-3 g-4">
+                <div class="col-xl-9 col-lg-12 col-md-12 col-12">
+                    <div class="row   row-cols-md-3   row-cols-2 g-4">
                         <?php
                         for($i = 0; $i <= 5; $i++){
                             include 'components/guess.php';
@@ -142,7 +142,7 @@
                         ?>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-xl-3 d-none d-xl-block">
                     <div class="f88-main-bet-review_banner">
                         <p class="mb-3">
                             <img src="assets/images/RCu6WjA.gif" alt="">
@@ -155,15 +155,15 @@
             </div>
 
         </div>
-        <div class="f88-main-bet-review mb-5">
+        <div class="f88-main-bet-review mb-lg-5 mb-4">
             <div class="f88-main-bet-review-title mb-3">
                 <a class="d-flex align-items-center" href="" title="">
                     <?php echo svg('bars-solid','14','16') ?>
-                    <span class="ms-1">  GIẢI MÃ GIẤC MƠ</span>
+                    <span class="ms-1"> GIẢI MÃ GIẤC MƠ</span>
                 </a>
             </div>
             <div class="row">
-                <div class="col-lg-3">
+                <div class="col-xl-3 d-none d-xl-block">
                     <div class="f88-main-bet-review_banner">
                         <p class="mb-3">
                             <img src="assets/images/RCu6WjA.gif" alt="">
@@ -173,8 +173,8 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-9">
-                    <div class="row row-cols-lg-3 g-4">
+                <div class="col-xl-9 col-lg-12 col-md-12 col-12">
+                    <div class="row   row-cols-md-3   row-cols-2 g-4">
                         <?php
                         for($i = 0; $i <= 5; $i++){
                             include 'components/guess.php';

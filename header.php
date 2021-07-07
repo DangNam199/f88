@@ -95,14 +95,14 @@ function svg($name, $width = false, $height = false)
                     </ul>
                 </div>
             </div>
-            <div class="col-md-6 col-6 d-block d-lg-none text-end">
+            <div class="col-md-6 col-6  d-lg-none text-end">
                 <div class="header__bars ">
                     <?php echo svg('bars-solid','25') ?>
                 </div>
             </div>
 
             <div class="col-lg-2 col-12 ">
-                <div class="f88-header-menu_search">
+                <div class="f88-header-menu_search mb-xl-0 mb-2">
                     <div class="form d-flex align-items-center">
                         <input type="text" class="form-control" placeholder="Search">
                         <button type="mid">

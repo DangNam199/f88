@@ -1,6 +1,7 @@
 .f88-footer{
   background-image: url(../images/bg-footer.png);
   background-repeat: no-repeat;
+  background-size: cover;
     &-title{
       background: linear-gradient(#d30000,#ee1f52);
       text-align: center;
@@ -9,6 +10,12 @@
       margin: -80px 20% 40px;
       padding: 10px ;
       line-height: 1.6;
+      @media (min-width:700px) and (max-width:800px){
+        margin: -53px 20% 26px;
+      }
+      @media only screen and (max-width: 500px) {
+        margin: -50px -2% 23px;
+      }
     }
     &-content{
       &-title{
